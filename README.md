@@ -2,12 +2,7 @@
 <h3 align="center">A passionate web developer & architect from Austria</h3>
 
 ## About Me
-For 10 years, I’ve been designing public spaces like squares and parks.
-Maybe you’ve even walked through one of my projects! <br>
-🌳⛲️🌳🚶‍♀️🏡🌳
-
-I have been working with city officials and communities. I saw how digital tools always simplified our communication. This fuelled my curiosity and I decided to learn to program these tools myself. 👨🏻‍💻
-I'm passionate about app development and always eager to learn new technologies. Currently, I'm focusing on honing my skills in Swift and D3.js.
+Working closely with city officials and communities, I've experienced how digital tools simplify our communication. This fuelled my curiosity and led me to learn programming. I'm shaping a career that blends creativity, technology, and effective stakeholder communication.
 
 ## Why I Love App Development
 Developing apps allows me to bring ideas to life and create solutions that people can use on their phones. I believe in making technology accessible to everyone and enjoy crafting user-friendly experiences. 🤳
