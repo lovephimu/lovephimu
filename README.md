@@ -27,7 +27,7 @@ Feel free to reach out if you have any questions or want to collaborate on excit
 - 📫 How to reach me **https://www.linkedin.com/in/philipp-soeparno/**
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&bg_color=00000000&title_color=333&text_color=333&border_color=87AE7A&border_radius=5&langs_count=6&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovephimu&layout=compact&bg_color=00000000&title_color=333&text_color=333&border_color=87AE7A&border_radius=5&langs_count=6&hide_border=true" alt="Top Languages" />
 </div>
 
 
