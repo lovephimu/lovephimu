@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Philipp Soeparno</h1>
 <h3 align="center">A passionate web developer & architect from Austria</h3>
 
-## About Me
+## My Inspiration
 Working closely with city officials and communities, I've experienced how digital tools simplify our communication. This fuelled my curiosity and led me to learn programming. I'm shaping a career that blends creativity, technology, and effective stakeholder communication.
 
 ## Why I Love App Development
