@@ -3,7 +3,7 @@
 
 ## About Me
 For 10 years, I’ve been designing public spaces like squares and parks.
-Maybe you’ve even walked through one of my projects! 
+Maybe you’ve even walked through one of my projects! <br>
 🌳🌳🌳🌳🚶‍♀️🌳🌳🌳🌳🌳🌳🌳🌳⛲️🌳🏡🌳
 
 I have been working with city officials and communities. I saw how digital tools always simplified our communication. This fuelled my curiosity and I decided to learn to program these tools myself. 
