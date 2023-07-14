@@ -26,7 +26,7 @@ Feel free to reach out if you have any questions or want to collaborate on excit
 
 - 📫 How to reach me **https://www.linkedin.com/in/philipp-soeparno/**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovephimu&layout=compact&bg_color=00000000&title_color=333&text_color=333&border_color=87AE7A&border_radius=5&langs_count=6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovephimu&layout=compact&bg_color=00000000&title_color=fff&text_color=fff&border_color=87AE7A&border_radius=5&langs_count=6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
