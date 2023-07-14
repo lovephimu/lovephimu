@@ -1,9 +1,25 @@
 <h1 align="center">Hey 👋, I'm Philipp Soeparno</h1>
 <h3 align="center">A passionate web developer & architect from Austria</h3>
 
+## About Me
+For 10 years, I’ve been designing public spaces like squares and parks.
+Maybe you’ve even walked through one of my projects! 
+
+I have been working with city officials and communities. Digital tools always simplified our communication. This fuelled my curiosity and I decided to learn to program these tools myself.
+I'm passionate about app development and always eager to learn new technologies. Currently, I'm focusing on honing my skills in Swift and D3.js.
+
+## What I'm Learning Next
+- Swift: I'm excited to delve into the world of iOS app development using Swift. Creating elegant and intuitive mobile experiences is my goal.
+- D3.js: I'm also keen on exploring data visualization with D3.js. Turning complex data into interactive visualizations is a fascinating challenge I'm ready to tackle.
+
+## Why I Love App Development
+Developing apps allows me to bring ideas to life and create solutions that people can use on their phones. I believe in making technology accessible to everyone and enjoy crafting user-friendly experiences.
+
+Feel free to reach out if you have any questions or want to collaborate on exciting projects!
+
 - 🔭 I’m currently working on [ornitwo](https://github.com/lovephimu/ornitwo)
 
-- 🌱 I’m currently learning **React Native & D3**
+- 🌱 What I’m currently learning **Swift & D3**
 
 - 💬 Ask me about **Next.js, GraphQL or Design**
 
