@@ -2,10 +2,10 @@
 <h3 align="center">A passionate web developer & architect from Austria</h3>
 
 ## About Me
-For 10 years, I’ve been designing public spaces like squares and parks.
-Maybe you’ve even walked through one of my projects! 
+For 10 years, I’ve been designing public spaces like squares and parks.🌳🌳🌳🌳⛲️🌳🏡🌳
+Maybe you’ve even walked through one of my projects! 🌳🌳🌳🌳🚶‍♀️🌳🌳🌳🌳
 
-I have been working with city officials and communities. Digital tools always simplified our communication. This fuelled my curiosity and I decided to learn to program these tools myself.
+I have been working with city officials and communities. I saw how digital tools always simplified our communication. This fuelled my curiosity and I decided to learn to program these tools myself. 
 I'm passionate about app development and always eager to learn new technologies. Currently, I'm focusing on honing my skills in Swift and D3.js.
 
 ## What I'm Learning Next
