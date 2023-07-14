@@ -5,7 +5,7 @@
 Working closely with city officials and communities, I've experienced how digital tools simplify our communication. This fuelled my curiosity and led me to learn programming. I'm shaping a career that blends creativity, technology, and effective stakeholder communication.
 
 ## Why I Love App Development
-Developing apps allows me to bring ideas to life and create solutions that people can use on their phones. I believe in making technology accessible to everyone and enjoy crafting user-friendly experiences. 🤳
+Developing apps allows me to bring ideas to life and create solutions that people can use on their phones. I believe in making technology accessible to everyone and enjoy crafting user-friendly experiences. 
 
 ## What I'm Learning Next
 - Swift: I'm excited to delve into the world of iOS app development using Swift. Creating elegant and intuitive mobile experiences is my goal.
