@@ -13,7 +13,7 @@ Developing apps allows me to bring ideas to life and create solutions that peopl
 
 Feel free to reach out if you have any questions or want to collaborate on exciting projects!
 
-- 🔭 I’m currently working on [ornitwo](https://github.com/lovephimu/ornitwo)
+- 🔭 I’m currently working on [parole](https://github.com/lovephimu/parole) & [ornitwo](https://github.com/lovephimu/ornitwo)
 
 - 🌱 What I’m currently learning **Swift & D3**
 
