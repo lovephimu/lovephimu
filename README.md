@@ -17,6 +17,8 @@ Feel free to reach out if you have any questions or want to collaborate on excit
 :-------------------------:|:-------------------------:
 OrniTwo             |  Chat Schibidi
 
+<img src="https://github.com/lovephimu/ornitwo/blob/next-update/public/images/title_pic.png" alt="orniTwo Logo" width="200" height="auto"> <img src="https://github.com/lovephimu/next-chat-app/raw/main/public/chat_logo_markup.png" alt="Chat Logo" width="200" height="auto">
+
 - 🌱 I have recently deployed [Chat Schibidi](https://github.com/lovephimu/next-chat-app) (a simple open chat room) & [ornitwo](https://github.com/lovephimu/ornitwo) (a birdwatching web-app)
 
 - 🔭 What I’m currently learning **D3 & Statamic**
