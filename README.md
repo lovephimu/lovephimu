@@ -8,14 +8,18 @@ Working closely with city officials and communities, I've experienced how digita
 Developing apps allows me to bring ideas to life and create solutions that people can use on their phones. I believe in making technology accessible to everyone and enjoy crafting user-friendly experiences. 
 
 ## What I'm Learning Next
-- Swift: I'm excited to delve into the world of iOS app development using Swift. Creating elegant and intuitive mobile experiences is my goal.
+- Statamic: I'm excited to delve into the world of CMS using Statamic. Creating elegant and headless set ups in combination with Next.js is my goal.
 - D3.js: I'm also keen on exploring data visualization with D3.js. Turning complex data into interactive visualizations is a fascinating challenge I'm ready to tackle.
 
 Feel free to reach out if you have any questions or want to collaborate on exciting projects!
 
-- 🔭 I’m currently working on [parole](https://github.com/lovephimu/parole) (a simplistic vocabulary trainer) & [ornitwo](https://github.com/lovephimu/ornitwo) (a birdwatching web-app)
+<img src="[https://github.com/lovephimu/ornitwo/blob/next-update/public/images/title_pic.png" alt="Chat Logo" width="200" height="auto">  |  <img src="https://github.com/lovephimu/next-chat-app/raw/main/public/chat_logo_markup.png" alt="Chat Logo" width="200" height="auto">
+:-------------------------:|:-------------------------:
+OrniTwo             |  Chat Schibidi
 
-- 🌱 What I’m currently learning **Swift & D3**
+- 🌱 I have recently deployed [Chat Schibidi](https://github.com/lovephimu/next-chat-app) (a simple open chat room) & [ornitwo](https://github.com/lovephimu/ornitwo) (a birdwatching web-app)
+
+- 🔭 What I’m currently learning **D3 & Statamic**
 
 - 💬 Ask me about **Next.js, GraphQL or Design**
 
