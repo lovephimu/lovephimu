@@ -13,11 +13,12 @@ Developing apps allows me to bring ideas to life and create solutions that peopl
 
 Feel free to reach out if you have any questions or want to collaborate on exciting projects!
 
+<h3 align="left">Deployed Projects:</h3>
+
 <img src="https://github.com/lovephimu/ornitwo/blob/next-update/public/images/title_pic.png" alt="orniTwo Logo" width="200" height="auto">  |  <img src="https://github.com/lovephimu/next-chat-app/raw/main/public/chat_logo_markup.png" alt="Chat Logo" width="200" height="auto">
 :-------------------------:|:-------------------------:
 OrniTwo             |  Chat Schibidi
-
-<img src="https://github.com/lovephimu/ornitwo/blob/next-update/public/images/title_pic.png" alt="orniTwo Logo" width="200" height="auto"> <img src="https://github.com/lovephimu/next-chat-app/raw/main/public/chat_logo_markup.png" alt="Chat Logo" width="200" height="auto">
+a birdwatching web-app            |  a simple open chat room
 
 - 🌱 I have recently deployed [Chat Schibidi](https://github.com/lovephimu/next-chat-app) (a simple open chat room) & [ornitwo](https://github.com/lovephimu/ornitwo) (a birdwatching web-app)
 
