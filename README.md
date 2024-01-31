@@ -13,6 +13,7 @@ Developing apps allows me to bring ideas to life and create solutions that peopl
 
 - Statamic: I'm excited to delve into the world of CMS using Statamic. Creating elegant and headless set ups in combination with Next.js is my goal.
 - D3.js: I'm also keen on exploring data visualization with D3.js. Turning complex data into interactive visualizations is a fascinating challenge I'm ready to tackle.
+- 💬 Ask me about **Next.js, GraphQL or Design**
 
 Feel free to reach out if you have any questions or want to collaborate on exciting projects!
 
@@ -23,9 +24,7 @@ Feel free to reach out if you have any questions or want to collaborate on excit
 OrniTwo             |  Chat Schibidi
 a birdwatching web-app            |  a simple open chat room
 
-- 💬 Ask me about **Next.js, GraphQL or Design**
-
-- 📫 How to reach me **https://www.linkedin.com/in/philipp-soeparno/**
+## 📫 How to reach me **https://www.linkedin.com/in/philipp-soeparno/**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovephimu&layout=compact&bg_color=00000000&title_color=fff&text_color=fff&border_color=87AE7A&border_radius=5&langs_count=6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
