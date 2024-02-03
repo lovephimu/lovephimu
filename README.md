@@ -28,6 +28,6 @@ a birdwatching web-app            |  a simple open chat room
 
 <p align="left">
 <a href="https://linkedin.com/in/philipp-soeparno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philipp-soeparno" height="30" width="40" /></a>
-  **https://www.linkedin.com/in/philipp-soeparno/**
+  https://www.linkedin.com/in/philipp-soeparno/
 </p>
 
