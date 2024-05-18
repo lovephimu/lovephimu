@@ -17,13 +17,6 @@ Developing apps allows me to bring ideas to life and create solutions that peopl
 
 Feel free to reach out if you have any questions or want to collaborate on exciting projects!
 
-## 🌱 Recently Deployed Projects 
-
-<a href="https://ornitwo.vercel.app"><img src="https://github.com/lovephimu/ornitwo/blob/next-update/public/images/title_pic.png" alt="orniTwo Logo" width="200" height="auto"></a> |  <a href="https://chat-schibidi.vercel.app"><img src="https://github.com/lovephimu/next-chat-app/raw/main/public/chat_logo_markup.png" alt="Chat Logo" width="200" height="auto"></a>  |  <a href="https://heartandsquare.vercel.app"><img src="https://github.com/lovephimu/next-heartandsquare/blob/main/public/images/hands_icon.png" alt="heart and square Logo" width="200" height="auto"></a>
-:-------------------------:|:-------------------------:|:-------------------------:
-OrniTwo             |  Chat Schibidi              |  Heart & Square
-a birdwatching web-app            |  a simple open chat room            |  personal website and blog
-
 ## 📫 How to reach me 
 
 <p align="left">
